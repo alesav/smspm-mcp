@@ -18,7 +18,7 @@ npm install -g smspm-mcp
 ### Option B — Install from source
 
 ```bash
-git clone https://github.com/YOUR_ORG/smspm-mcp.git
+git clone https://github.com/alesav/smspm-mcp.git
 cd smspm-mcp
 npm install
 npm run build

@@ -30,11 +30,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB/smspm-mcp.git"
+    "url": "git+https://github.com/alesav/smspm-mcp.git"
   },
-  "homepage": "https://smspm.com",
+  "homepage": "https://github.com/alesav/smspm-mcp#readme",
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB/smspm-mcp/issues"
+    "url": "https://github.com/alesav/smspm-mcp/issues"
   },
   "engines": {
     "node": ">=18"
